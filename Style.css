@@ -1,0 +1,37 @@
+body
+{
+	background-image:url('vt.jpg.jpg');
+	background-size:100%;
+}
+h1
+{
+	font-family: monaco;	
+	background-color: rgba(245,245,245,0.8);
+	color: rgba(60,0,200,0.4);
+	border: 1px solid black;
+	padding: 20px;
+}
+h2
+{
+	font-family: monaco;
+	background-color: rgba(245,245,245,0.8);
+	color: rgba(60,0,200,0.4);
+	border: 1px solid black;
+	padding: 15px;
+}
+pre
+{
+	font-family: ariel;
+	background-color: rgba(245,245,245,0.8);
+	color: rgba(60,0,200,0.4)
+	border: 1px solid black;
+	padding: 20px;
+}
+p
+{
+	font-family: ariel;
+	background-color: rgba(245,245,245,0.8);
+	color: rgba(60,0,200,0.4)
+	border: 1px solid black;
+	padding: 20px;
+}
